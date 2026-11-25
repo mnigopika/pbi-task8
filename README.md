@@ -96,10 +96,6 @@ student-performance-dashboard/
 - How do results vary by parental education level?
 - What differences appear across lunch categories?
 
-## ⚠️ Notes
 
-- The preview graphic is illustrative; replace it with a real screenshot of your Power BI report for an exact representation.
-- Descriptive differences do not prove that a factor caused a change in scores.
-- Confirm the actual charts, KPIs, and findings in the `.pbix` file before reporting specific conclusions.
 
 
